@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TowerInfo>
+  <TowerType Type="Physical" Color="GreenYellow">
+    <Level Value="1" Damage="55"  ShotDelay="1,5"  Ticks="1" Range="2"   Cost="100"  UpgradeCost="75"   SellGain="75"   ScreenWidth="8"  ScreenHeight="8" />
+    <Level Value="2" Damage="75"  ShotDelay="1,2"  Ticks="1" Range="2,5" Cost="175"  UpgradeCost="200"  SellGain="125"  ScreenWidth="12" ScreenHeight="12"/>
+    <Level Value="3" Damage="95"  ShotDelay="1"    Ticks="1" Range="3"   Cost="375"  UpgradeCost="400"  SellGain="275"  ScreenWidth="18" ScreenHeight="18"/>
+    <Level Value="4" Damage="130" ShotDelay="0,9"  Ticks="1" Range="4"   Cost="775"  UpgradeCost="800"  SellGain="500"  ScreenWidth="24" ScreenHeight="24"/>
+    <Level Value="5" Damage="160" ShotDelay="0,8"  Ticks="1" Range="5"   Cost="1575" UpgradeCost="1600" SellGain="1000" ScreenWidth="30" ScreenHeight="30"/>
+  </TowerType>
+  <TowerType Type="Ice" Color="Blue">
+    <Level Value="1" Damage="45"  ShotDelay="1,7" Ticks="2" Range="1,5" Cost="150"  UpgradeCost="95"   SellGain="95"   ScreenWidth="8"  ScreenHeight="8" />
+    <Level Value="2" Damage="55"  ShotDelay="1,4" Ticks="3" Range="2"   Cost="245"  UpgradeCost="230"  SellGain="160"  ScreenWidth="12" ScreenHeight="12"/>
+    <Level Value="3" Damage="75"  ShotDelay="1,2" Ticks="4" Range="2,5" Cost="470"  UpgradeCost="500"  SellGain="390"  ScreenWidth="18" ScreenHeight="18"/>
+    <Level Value="4" Damage="95"  ShotDelay="1"   Ticks="5" Range="3"   Cost="850"  UpgradeCost="1000" SellGain="650"  ScreenWidth="24" ScreenHeight="24"/>
+    <Level Value="5" Damage="130" ShotDelay="0,8" Ticks="6" Range="4"   Cost="1700" UpgradeCost="1900" SellGain="1250" ScreenWidth="30" ScreenHeight="30"/>
+  </TowerType>
+  <TowerType Type="Fire" Color="OrangeRed">
+    <Level Value="1" Damage="75"  ShotDelay="1,7" Ticks="4" Range="3"   Cost="170"  UpgradeCost="85"   SellGain="85"   ScreenWidth="8"  ScreenHeight="8" />
+    <Level Value="2" Damage="95"  ShotDelay="1,4" Ticks="5" Range="4"   Cost="260"  UpgradeCost="220"  SellGain="130"  ScreenWidth="12" ScreenHeight="12"/>
+    <Level Value="3" Damage="120" ShotDelay="1,2" Ticks="5" Range="4,5" Cost="400"  UpgradeCost="450"  SellGain="290"  ScreenWidth="18" ScreenHeight="18"/>
+    <Level Value="4" Damage="150" ShotDelay="1"   Ticks="6" Range="5"   Cost="850"  UpgradeCost="900"  SellGain="550"  ScreenWidth="24" ScreenHeight="24"/>
+    <Level Value="5" Damage="180" ShotDelay="0,8" Ticks="7" Range="7"   Cost="1700" UpgradeCost="1750" SellGain="1100" ScreenWidth="30" ScreenHeight="30"/>
+  </TowerType>
+  <TowerType Type="Poison" Color="Purple">
+    <Level Value="1" Damage="50"  ShotDelay="1,5"  Ticks="4" Range="3"   Cost="125"  UpgradeCost="85"   SellGain="85"   ScreenWidth="8"  ScreenHeight="8" />
+    <Level Value="2" Damage="65"  ShotDelay="1,2"  Ticks="5" Range="4"   Cost="190"  UpgradeCost="220"  SellGain="130"  ScreenWidth="12" ScreenHeight="12"/>
+    <Level Value="3" Damage="85"  ShotDelay="1,05" Ticks="5" Range="4,5" Cost="400"  UpgradeCost="450"  SellGain="290"  ScreenWidth="18" ScreenHeight="18"/>
+    <Level Value="4" Damage="115" ShotDelay="0,9"  Ticks="6" Range="5"   Cost="850"  UpgradeCost="900"  SellGain="550"  ScreenWidth="24" ScreenHeight="24"/>
+    <Level Value="5" Damage="140" ShotDelay="0,8"  Ticks="7" Range="7"   Cost="1700" UpgradeCost="1750" SellGain="1100" ScreenWidth="30" ScreenHeight="30"/>
+  </TowerType>
+  <TowerType Type="Stun" Color="Yellow">
+    <Level Value="1" Damage="35"  ShotDelay="2"   Ticks="2" Range="3"   Cost="150"  UpgradeCost="85"   SellGain="85"   ScreenWidth="8"  ScreenHeight="8" />
+    <Level Value="2" Damage="45"  ShotDelay="1,8" Ticks="3" Range="4"   Cost="190"  UpgradeCost="220"  SellGain="130"  ScreenWidth="12" ScreenHeight="12"/>
+    <Level Value="3" Damage="60"  ShotDelay="1,6" Ticks="4" Range="4,5" Cost="400"  UpgradeCost="450"  SellGain="290"  ScreenWidth="18" ScreenHeight="18"/>
+    <Level Value="4" Damage="75"  ShotDelay="1,4" Ticks="5" Range="5"   Cost="850"  UpgradeCost="900"  SellGain="550"  ScreenWidth="24" ScreenHeight="24"/>
+    <Level Value="5" Damage="90"  ShotDelay="1"   Ticks="6" Range="7"   Cost="1700" UpgradeCost="1750" SellGain="1100" ScreenWidth="30" ScreenHeight="30"/>
+  </TowerType>
+</TowerInfo>

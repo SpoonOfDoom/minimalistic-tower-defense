@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalisticTD", "MinimalisticTD\MinimalisticTD\MinimalisticTD.csproj", "{6DFD4A02-A304-4661-986A-E98C416970AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalisticTDContent", "MinimalisticTD\MinimalisticTDContent\MinimalisticTDContent.contentproj", "{827C43FE-A18A-4703-8A00-4CD3B29EB882}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CampaignBuilding|x86 = CampaignBuilding|x86
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DFD4A02-A304-4661-986A-E98C416970AC}.CampaignBuilding|x86.ActiveCfg = CampaignBuilding|x86
+		{6DFD4A02-A304-4661-986A-E98C416970AC}.CampaignBuilding|x86.Build.0 = CampaignBuilding|x86
+		{6DFD4A02-A304-4661-986A-E98C416970AC}.Debug|x86.ActiveCfg = Debug|x86
+		{6DFD4A02-A304-4661-986A-E98C416970AC}.Debug|x86.Build.0 = Debug|x86
+		{6DFD4A02-A304-4661-986A-E98C416970AC}.Release|x86.ActiveCfg = Release|x86
+		{6DFD4A02-A304-4661-986A-E98C416970AC}.Release|x86.Build.0 = Release|x86
+		{827C43FE-A18A-4703-8A00-4CD3B29EB882}.CampaignBuilding|x86.ActiveCfg = Release|x86
+		{827C43FE-A18A-4703-8A00-4CD3B29EB882}.Debug|x86.ActiveCfg = Debug|x86
+		{827C43FE-A18A-4703-8A00-4CD3B29EB882}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

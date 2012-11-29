@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EnemyInfo>
+  <EnemyType Type="Normal" Color="Red">
+    <Level Value="1" Health="100" Armor="1" MoneyWorth="50"  Points="100" Speed="40"   ScreenWidth="8"  ScreenHeight="8" />
+    <Level Value="2" Health="150" Armor="2" MoneyWorth="100" Points="200" Speed="45"   ScreenWidth="12" ScreenHeight="12"/>
+    <Level Value="3" Health="250" Armor="2" MoneyWorth="200" Points="300" Speed="50"   ScreenWidth="18" ScreenHeight="18"/>
+    <Level Value="4" Health="300" Armor="3" MoneyWorth="300" Points="500" Speed="55"   ScreenWidth="24" ScreenHeight="24"/>
+    <Level Value="5" Health="500" Armor="5" MoneyWorth="400" Points="800" Speed="60"   ScreenWidth="30" ScreenHeight="30"/>
+  </EnemyType>
+  <EnemyType Type="Ice" Color="AliceBlue">
+    <Level Value="1" Health="75"  Armor="2"  MoneyWorth="50"    Points="50"  Speed="25"   ScreenWidth="8"  ScreenHeight="8" />
+    <Level Value="2" Health="115" Armor="4"  MoneyWorth="100"   Points="150" Speed="30"   ScreenWidth="12" ScreenHeight="12"/>
+    <Level Value="3" Health="160" Armor="6"  MoneyWorth="200"   Points="250" Speed="35"   ScreenWidth="18" ScreenHeight="18"/>
+    <Level Value="4" Health="320" Armor="8"  MoneyWorth="300"   Points="400" Speed="37,5" ScreenWidth="24" ScreenHeight="24"/>
+    <Level Value="5" Health="500" Armor="10" MoneyWorth="400"   Points="600" Speed="38"   ScreenWidth="30" ScreenHeight="30"/>
+  </EnemyType>
+</EnemyInfo>
