@@ -1,0 +1,12 @@
+﻿-Growing message after winning/losing map
+	-isn't always displayed for some reason.
+
+
+-Balancing
+
+
+-Campaign Maps
+	
+
+
+-Music
