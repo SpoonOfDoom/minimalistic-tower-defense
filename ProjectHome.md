@@ -1,0 +1,3 @@
+A half finished tower defense game with block towers shooting at block enemies. It is a project I used to learn XNA, but ultimately lost interest in, so I stuffed it full of Xml documentation and providing it here as an example of how not to do it. Maybe someone will be able to learn something from it.
+
+I'm not especially familiar with licenses, so I'm not sure I picked the correct one. What I want is: Feel free to do with it what you want. If you end up using parts or even the whole of the project somewhere, a mention and link to my website (www.spoonforge.com) would be nice, but isn't strictly required.
